@@ -14,6 +14,5 @@ class MyApp extends StatelessWidget {
       title: "Poddle NFC Writer",
       home:Home(),
     );
-    
   }
 }
